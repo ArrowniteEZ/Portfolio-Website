@@ -9,10 +9,7 @@ Architecture:
 
 Chosen to ensure modularity between the primary functions of the web-app, increasing reusability and preventing bugs from interference between functionalities from occuring 
 
-
-Each layer then follows: 
 Modular Monolith Architecture 
-
 Chosen for simplicity in building/testing/deploying 
     -Portfolio app is small enough that scaling is unnecessary for now
     -Should scaling be necessary, components should be written such that:
@@ -24,3 +21,4 @@ Chosen for simplicity in building/testing/deploying
 Others:
     -Components should be reusable, consisting of one file each, takes in one set of input data and puts out one set of output data  
     -Connected with thin glue code
+
