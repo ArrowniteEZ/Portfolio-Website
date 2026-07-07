@@ -1,14 +1,14 @@
 MVP Features
 1. Public Portfolio
-Home page
-About page
-Projects page
-Contact page
+-Home page
+-About page
+-Projects page
+-Contact page
 
 2. Admin Panel
-Secure login
-Create/Edit/Delete projects
-View contact messages
+-Secure login
+-Create/Edit/Delete projects
+-View contact messages
 
 
 How Layers Are Incorporated:
