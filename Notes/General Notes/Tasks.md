@@ -12,4 +12,4 @@ Once these steps are done, we have the building blocks for other steps:
         -Figure out what we're actually showing
 
     5: Application Layer
-        -Figure out how to enable the Presentation layer using business logic tools 
+        -Figure out how to enable the Presentation layer using business logic tools  
