@@ -1,0 +1,2 @@
+#Call this whenever you need to reference another file in this project, store addresses to files once here in variables instead of writing the actual file address in the code, that way you can edit a file address once and not have to find out every location it is referenced
+#Set the file type later to whatever programming langauge we're using, maybe use SQL + some glue code to get the data from the sql?

@@ -1,0 +1,1 @@
+Figure out how migrations work lol, like how you're supposed to structure them
