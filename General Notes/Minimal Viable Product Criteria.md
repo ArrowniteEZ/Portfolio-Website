@@ -7,12 +7,14 @@ MVP Features
     -Navigation bar
     -Call-to-action button ("View Projects")
     -Footer with social links
+
 -About page
     -Profile photo/avatar
     -Biography
     -Education
     -Technical skills
     -Resume download button
+
 -Projects page
     -Display all projects as cards
     -Each card shows:
@@ -27,6 +29,7 @@ MVP Features
         -Additional screenshots
     -Allow sorting (Newest, Oldest)
     -Allow filtering by technology (optional MVP+)
+    
 -Contact page
     -Form fields:
         -Name
@@ -125,4 +128,7 @@ Data Access:
     -Repository/DAO classes that perform database queries
 
 Database: 
-    -Tables for Users, Projects, ContactMessages
+    -Tables for: 
+        -Users
+        -Projects
+        -ContactMessages
